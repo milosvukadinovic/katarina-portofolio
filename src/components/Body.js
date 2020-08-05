@@ -13,7 +13,7 @@ import pic from '../images/bg.png'
                    <div class="centeredOpacity">
                    <h1 class="titleSub">Introducing Katarina </h1>
                    
-<div class="text-about" style={{width: "50%"}}>-2013-2017 graduated as a graphic designer at the high school "School of Design" in Belgrade </div>
+<div class="text-about" style={{width: "50%"}}>-2013 - 2017 graduated as a graphic designer at the high school "School of Design" in Belgrade </div>
 <div class="text-about" style={{width: "50%"}}>-Rewarded as the 'best and most successful graphic design student'</div>
 <div class="text-about" style={{width: "50%"}}>-Was a part of the 'Cyrillic typography' school exhibition</div>
 <div class="text-about" style={{width: "50%"}}>-Volunteered at DIMIS company as a graphic designer </div>
